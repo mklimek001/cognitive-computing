@@ -1,0 +1,44 @@
+{
+    "akiec": {
+      "name": "Keratozy aktyniczne i rak in situ / Choroba Bowena",
+      "treatment": "Terapia obejmuje chirurgiczne wycięcie zmiany.",
+      "prognosis": "Choroba Bowena jest w pełni wyleczalna, jeśli zgłosimy się do lekarza i podejmiemy odpowiednią terapię już przy pierwszych objawach.",
+      "risks": "Ryzyko progresji choroby Bowena do inwazyjnego raka wynosi około 3%."
+    },
+    "bcc": {
+      "name": "Rak podstawnokomórkowy",
+      "treatment": "Metody leczenia obejmują chirurgię, krioterapię, laseroterapię, elektrokoagulację lub stosowanie 5-fluorouracylu.",
+      "prognosis": "Rokowanie jest bardzo dobre pod warunkiem szybkiego rozpoznania i usunięcia zmiany.",
+      "risks": "Rak podstawnokomórkowy skóry ma tendencję do miejscowej wznowy i nawrotów."
+    },
+    "bkl":{
+      "name": "Zmiany łagodne przypominające keratozy (łagodne plamy słoneczne / łojotokowe brodawki i keratozy podobne do liszaja płaskiego)",
+      "treatment": "W usuwaniu tego typu zmian skórnych zastosowanie mają zwłaszcza środki farmakologiczne (preparaty zawierające kwas salicylowy, mające działanie złuszczające), krioterapia, łyżeczkowanie, elektrokoagulacja i laseroterapia.",
+      "prognosis": "Większość naczyniaków łagodnych, które najczęściej diagnozowane są u dzieci, stopniowo zanikają.",
+      "risks": "Do częstych przyczyn powstawania naczyniaków zaliczamy także zaburzenia hormonalne w przebiegu różnych schorzeń np. tarczycy, zaburzeń w funkcjonowaniu narządów wewnętrznych i innych."
+    },
+    "df": {
+      "name": "Dermatofibroma",
+      "treatment": "Większość dermatofibromów nie wymaga leczenia.",
+      "prognosis": "Dermatofibromy są łagodne i zazwyczaj nie stanowią zagrożenia dla zdrowia.",
+      "risks": "Dermatofibromy mogą powodować dyskomfort, szczególnie jeśli są duże lub znajdują się w miejscach narażonych na tarcie."
+    },
+    "mel": {
+      "name": "Melanoma",
+      "treatment": "Leczenie melanoma zależy od stadium choroby i może obejmować chirurgię, immunoterapię, terapię celowaną, chemioterapię i radioterapię.",
+      "prognosis": "Ogólna 5-letnia stopa przeżycia dla melanoma w USA wynosi 93,3%, ale im późniejsze jest stadium, tym mniejsza jest szansa na przeżycie pięć lat po diagnozie.",
+      "risks": "Melanoma może przerzutować do innych części ciała, co znacznie pogarsza rokowanie."
+    },
+    "nv": {
+      "name": "Naczyniaki barwnikowe",
+      "treatment": "Leczenie naczyniaków barwnikowych zależy od wielkości, lokalizacji i rodzaju naczyniaka. Może obejmować obserwację, leki, laseroterapię lub chirurgię.",
+      "prognosis": "Większość naczyniaków barwnikowych jest łagodna i nie stanowi zagrożenia dla zdrowia.",
+      "risks": "Naczyniaki barwnikowe mogą powodować dyskomfort lub problemy estetyczne, szczególnie jeśli są duże lub znajdują się w widocznych miejscach."
+    },
+    "vasc": {
+      "name": "Zmiany naczyniowe (naczyniaki, angiofibromy, ziarniniaki krwotoczne i krwotoki)",
+      "treatment": "Leczenie zależy od rodzaju zmiany naczyniowej i może obejmować obserwację, leki, laseroterapię lub chirurgię.",
+      "prognosis": "Większość zmian naczyniowych jest łagodna i nie stanowi zagrożenia dla zdrowia.",
+      "risks": "Niektóre zmiany naczyniowe mogą powodować dyskomfort lub problemy estetyczne, szczególnie jeśli są duże lub znajdują się w widocznych miejscach."
+    }
+}

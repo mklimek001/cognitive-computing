@@ -1,0 +1,351 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization
+HAM_0004451,ISIC_0027992,nv,follow_up,55.0,female,trunk
+HAM_0003975,ISIC_0030098,nv,follow_up,40.0,female,lower extremity
+HAM_0006113,ISIC_0031696,nv,follow_up,35.0,female,genital
+HAM_0004631,ISIC_0032473,nv,follow_up,55.0,female,trunk
+HAM_0000204,ISIC_0027639,nv,histo,55.0,male,back
+HAM_0002743,ISIC_0030439,nv,follow_up,40.0,male,abdomen
+HAM_0006100,ISIC_0032288,nv,follow_up,50.0,female,foot
+HAM_0001411,ISIC_0027869,nv,follow_up,35.0,female,lower extremity
+HAM_0006227,ISIC_0031264,nv,follow_up,45.0,female,abdomen
+HAM_0006534,ISIC_0028778,nv,follow_up,55.0,female,lower extremity
+HAM_0000962,ISIC_0028674,nv,follow_up,60.0,female,lower extremity
+HAM_0004269,ISIC_0025003,nv,follow_up,50.0,female,lower extremity
+HAM_0007062,ISIC_0029116,nv,follow_up,50.0,female,trunk
+HAM_0002308,ISIC_0027193,nv,follow_up,55.0,female,abdomen
+HAM_0002389,ISIC_0026701,nv,follow_up,50.0,male,trunk
+HAM_0004786,ISIC_0029751,nv,follow_up,75.0,male,back
+HAM_0001279,ISIC_0032374,nv,histo,50.0,female,back
+HAM_0000421,ISIC_0034080,nv,consensus,,unknown,unknown
+HAM_0005566,ISIC_0032746,nv,histo,70.0,male,chest
+HAM_0000471,ISIC_0031656,nv,follow_up,50.0,male,trunk
+HAM_0001124,ISIC_0026587,nv,follow_up,50.0,female,abdomen
+HAM_0006075,ISIC_0026999,nv,follow_up,60.0,female,trunk
+HAM_0006470,ISIC_0027978,nv,histo,60.0,male,back
+HAM_0003125,ISIC_0025477,nv,histo,55.0,male,chest
+HAM_0001615,ISIC_0033348,nv,histo,40.0,male,lower extremity
+HAM_0006127,ISIC_0032449,nv,follow_up,50.0,male,unknown
+HAM_0003523,ISIC_0030447,nv,histo,40.0,male,back
+HAM_0001489,ISIC_0031765,nv,follow_up,50.0,female,foot
+HAM_0002814,ISIC_0028140,nv,follow_up,50.0,male,lower extremity
+HAM_0006250,ISIC_0030308,nv,follow_up,45.0,female,trunk
+HAM_0000264,ISIC_0027074,nv,follow_up,35.0,male,abdomen
+HAM_0002684,ISIC_0027874,nv,histo,40.0,female,back
+HAM_0005666,ISIC_0025171,nv,histo,30.0,female,hand
+HAM_0005787,ISIC_0027114,nv,histo,40.0,female,lower extremity
+HAM_0005816,ISIC_0027257,nv,follow_up,50.0,female,trunk
+HAM_0005717,ISIC_0032658,nv,consensus,30.0,male,back
+HAM_0003041,ISIC_0024558,nv,follow_up,70.0,male,abdomen
+HAM_0000778,ISIC_0028602,nv,histo,30.0,female,back
+HAM_0004710,ISIC_0028270,nv,follow_up,45.0,female,upper extremity
+HAM_0003557,ISIC_0026973,nv,follow_up,75.0,male,trunk
+HAM_0006967,ISIC_0026295,nv,consensus,60.0,female,back
+HAM_0002778,ISIC_0026540,nv,follow_up,45.0,female,lower extremity
+HAM_0003221,ISIC_0029104,nv,histo,40.0,female,lower extremity
+HAM_0001756,ISIC_0027484,nv,follow_up,80.0,male,back
+HAM_0004729,ISIC_0026198,nv,follow_up,40.0,female,upper extremity
+HAM_0004911,ISIC_0030860,nv,follow_up,55.0,male,lower extremity
+HAM_0006469,ISIC_0024479,nv,consensus,5.0,male,upper extremity
+HAM_0006685,ISIC_0027109,nv,histo,20.0,female,scalp
+HAM_0000703,ISIC_0028424,nv,follow_up,40.0,male,trunk
+HAM_0000578,ISIC_0033288,nv,histo,30.0,female,back
+HAM_0006267,ISIC_0031200,bkl,histo,50.0,female,back
+HAM_0002419,ISIC_0032359,bkl,consensus,75.0,female,trunk
+HAM_0001562,ISIC_0027713,bkl,histo,80.0,male,face
+HAM_0004912,ISIC_0025753,bkl,confocal,70.0,male,face
+HAM_0000893,ISIC_0032303,bkl,histo,70.0,male,lower extremity
+HAM_0006697,ISIC_0030272,bkl,histo,50.0,female,trunk
+HAM_0007232,ISIC_0025830,bkl,histo,80.0,male,back
+HAM_0005722,ISIC_0028525,bkl,consensus,75.0,male,face
+HAM_0001608,ISIC_0028792,bkl,histo,65.0,male,face
+HAM_0004673,ISIC_0029418,bkl,histo,50.0,male,back
+HAM_0000527,ISIC_0034201,bkl,histo,45.0,female,face
+HAM_0000299,ISIC_0024471,bkl,histo,55.0,male,upper extremity
+HAM_0005075,ISIC_0030607,bkl,histo,80.0,male,upper extremity
+HAM_0007571,ISIC_0032129,bkl,histo,70.0,male,chest
+HAM_0006652,ISIC_0031945,bkl,consensus,65.0,female,chest
+HAM_0006673,ISIC_0032719,bkl,consensus,60.0,female,face
+HAM_0004249,ISIC_0031591,bkl,histo,60.0,female,face
+HAM_0003410,ISIC_0024635,bkl,histo,60.0,female,face
+HAM_0007341,ISIC_0033758,bkl,histo,50.0,female,lower extremity
+HAM_0004396,ISIC_0029612,bkl,histo,65.0,male,upper extremity
+HAM_0005404,ISIC_0029455,bkl,consensus,70.0,male,face
+HAM_0001385,ISIC_0033280,bkl,histo,50.0,female,neck
+HAM_0007590,ISIC_0028615,bkl,confocal,40.0,male,unknown
+HAM_0006770,ISIC_0027905,bkl,consensus,70.0,female,back
+HAM_0003881,ISIC_0031893,bkl,consensus,70.0,female,face
+HAM_0001781,ISIC_0028623,bkl,consensus,30.0,female,back
+HAM_0004696,ISIC_0024881,bkl,histo,65.0,male,back
+HAM_0005834,ISIC_0032249,bkl,consensus,45.0,male,lower extremity
+HAM_0002742,ISIC_0025654,bkl,consensus,70.0,female,back
+HAM_0006673,ISIC_0033199,bkl,consensus,60.0,female,face
+HAM_0004234,ISIC_0029396,bkl,histo,85.0,female,chest
+HAM_0000344,ISIC_0032972,bkl,histo,55.0,male,trunk
+HAM_0000050,ISIC_0031394,bkl,histo,60.0,male,upper extremity
+HAM_0006310,ISIC_0031334,bkl,histo,80.0,male,face
+HAM_0001858,ISIC_0026085,bkl,histo,85.0,male,scalp
+HAM_0006513,ISIC_0030783,bkl,histo,70.0,female,lower extremity
+HAM_0000744,ISIC_0029474,bkl,histo,70.0,male,face
+HAM_0002327,ISIC_0033606,bkl,histo,60.0,female,neck
+HAM_0002058,ISIC_0024893,bkl,histo,65.0,female,ear
+HAM_0006173,ISIC_0032445,bkl,histo,60.0,female,face
+HAM_0004423,ISIC_0030318,bkl,histo,65.0,female,upper extremity
+HAM_0005935,ISIC_0026679,bkl,histo,70.0,female,chest
+HAM_0003605,ISIC_0029841,bkl,histo,55.0,male,face
+HAM_0005580,ISIC_0029235,bkl,consensus,80.0,male,face
+HAM_0000237,ISIC_0030935,bkl,histo,80.0,male,lower extremity
+HAM_0001539,ISIC_0026444,bkl,histo,70.0,male,back
+HAM_0003476,ISIC_0029603,bkl,histo,70.0,male,lower extremity
+HAM_0001487,ISIC_0031601,bkl,consensus,60.0,male,neck
+HAM_0000087,ISIC_0033709,bkl,histo,45.0,male,upper extremity
+HAM_0003015,ISIC_0025083,bkl,histo,55.0,male,back
+HAM_0001299,ISIC_0031208,mel,histo,55.0,female,back
+HAM_0005724,ISIC_0030032,mel,histo,75.0,male,upper extremity
+HAM_0002004,ISIC_0032847,mel,histo,45.0,male,abdomen
+HAM_0007243,ISIC_0028029,mel,histo,75.0,female,neck
+HAM_0006321,ISIC_0033239,mel,histo,70.0,male,trunk
+HAM_0000388,ISIC_0032844,mel,histo,60.0,male,back
+HAM_0000593,ISIC_0031401,mel,histo,50.0,male,back
+HAM_0007522,ISIC_0027904,mel,histo,55.0,female,upper extremity
+HAM_0001863,ISIC_0033193,mel,histo,70.0,male,upper extremity
+HAM_0004321,ISIC_0033522,mel,histo,40.0,female,back
+HAM_0003497,ISIC_0030970,mel,histo,50.0,female,lower extremity
+HAM_0002869,ISIC_0026694,mel,histo,50.0,female,back
+HAM_0001598,ISIC_0029238,mel,histo,65.0,male,back
+HAM_0005742,ISIC_0030014,mel,histo,50.0,male,ear
+HAM_0004571,ISIC_0033578,mel,histo,65.0,male,face
+HAM_0006171,ISIC_0026131,mel,histo,75.0,female,upper extremity
+HAM_0003520,ISIC_0025724,mel,histo,45.0,female,abdomen
+HAM_0003679,ISIC_0033570,mel,histo,55.0,male,lower extremity
+HAM_0005064,ISIC_0027144,mel,histo,40.0,female,back
+HAM_0000880,ISIC_0033562,mel,histo,60.0,male,face
+HAM_0005040,ISIC_0033805,mel,histo,40.0,female,upper extremity
+HAM_0006540,ISIC_0032988,mel,histo,70.0,female,face
+HAM_0001412,ISIC_0033678,mel,histo,75.0,female,back
+HAM_0005970,ISIC_0032806,mel,histo,65.0,male,chest
+HAM_0000888,ISIC_0025085,mel,histo,75.0,male,upper extremity
+HAM_0001847,ISIC_0024792,mel,histo,50.0,male,back
+HAM_0004121,ISIC_0026996,mel,histo,45.0,female,lower extremity
+HAM_0001835,ISIC_0029995,mel,histo,65.0,male,back
+HAM_0001734,ISIC_0032927,mel,histo,55.0,male,upper extremity
+HAM_0005927,ISIC_0028173,mel,histo,45.0,male,back
+HAM_0007117,ISIC_0034085,mel,histo,35.0,male,back
+HAM_0004126,ISIC_0030211,mel,histo,80.0,female,back
+HAM_0000136,ISIC_0031915,mel,histo,60.0,male,back
+HAM_0004979,ISIC_0026596,mel,histo,85.0,male,back
+HAM_0001910,ISIC_0028968,mel,histo,55.0,male,upper extremity
+HAM_0007420,ISIC_0031890,mel,histo,85.0,male,face
+HAM_0003602,ISIC_0032533,mel,histo,30.0,female,upper extremity
+HAM_0001349,ISIC_0024351,mel,histo,70.0,female,lower extremity
+HAM_0000176,ISIC_0033696,mel,histo,65.0,male,upper extremity
+HAM_0005336,ISIC_0033192,mel,histo,30.0,male,trunk
+HAM_0006635,ISIC_0028900,mel,histo,70.0,male,face
+HAM_0007031,ISIC_0025616,mel,histo,70.0,female,upper extremity
+HAM_0000536,ISIC_0031844,mel,histo,45.0,female,lower extremity
+HAM_0000002,ISIC_0034246,mel,histo,65.0,female,lower extremity
+HAM_0002109,ISIC_0028897,mel,histo,75.0,female,back
+HAM_0001353,ISIC_0024886,mel,histo,55.0,female,face
+HAM_0006521,ISIC_0025155,mel,histo,80.0,male,lower extremity
+HAM_0003102,ISIC_0025709,mel,histo,65.0,male,face
+HAM_0000645,ISIC_0029513,mel,histo,70.0,male,trunk
+HAM_0003843,ISIC_0034036,mel,histo,35.0,male,abdomen
+HAM_0007588,ISIC_0031728,bcc,histo,55.0,female,back
+HAM_0000189,ISIC_0025600,bcc,histo,85.0,female,scalp
+HAM_0001610,ISIC_0028693,bcc,histo,75.0,female,back
+HAM_0005382,ISIC_0026395,bcc,histo,50.0,female,back
+HAM_0007428,ISIC_0028106,bcc,histo,75.0,female,face
+HAM_0002664,ISIC_0033054,bcc,histo,60.0,male,face
+HAM_0005947,ISIC_0028079,bcc,histo,65.0,female,upper extremity
+HAM_0001215,ISIC_0031531,bcc,histo,70.0,male,back
+HAM_0007002,ISIC_0029515,bcc,histo,80.0,male,face
+HAM_0005804,ISIC_0024573,bcc,histo,85.0,male,face
+HAM_0000994,ISIC_0027609,bcc,histo,80.0,male,scalp
+HAM_0001749,ISIC_0034066,bcc,histo,70.0,male,chest
+HAM_0003444,ISIC_0028687,bcc,histo,80.0,female,lower extremity
+HAM_0005856,ISIC_0029857,bcc,histo,55.0,female,back
+HAM_0002269,ISIC_0024443,bcc,histo,55.0,male,back
+HAM_0005371,ISIC_0031154,bcc,histo,65.0,female,face
+HAM_0007627,ISIC_0029820,bcc,histo,80.0,male,chest
+HAM_0000451,ISIC_0030782,bcc,histo,80.0,male,back
+HAM_0005981,ISIC_0027371,bcc,histo,65.0,male,face
+HAM_0000463,ISIC_0030177,bcc,histo,70.0,female,face
+HAM_0002243,ISIC_0033019,bcc,histo,80.0,male,back
+HAM_0005971,ISIC_0031258,bcc,histo,40.0,male,back
+HAM_0006572,ISIC_0034160,bcc,histo,75.0,male,back
+HAM_0000009,ISIC_0026439,bcc,histo,35.0,male,back
+HAM_0006586,ISIC_0034026,bcc,histo,80.0,female,face
+HAM_0000394,ISIC_0034143,bcc,histo,25.0,male,back
+HAM_0004511,ISIC_0028765,bcc,histo,80.0,male,back
+HAM_0006351,ISIC_0027117,bcc,histo,70.0,female,face
+HAM_0001654,ISIC_0030755,bcc,histo,85.0,male,lower extremity
+HAM_0007009,ISIC_0027146,bcc,histo,50.0,male,back
+HAM_0001326,ISIC_0030145,bcc,histo,60.0,male,scalp
+HAM_0003046,ISIC_0034276,bcc,histo,70.0,male,face
+HAM_0001243,ISIC_0033747,bcc,histo,30.0,female,back
+HAM_0000987,ISIC_0027722,bcc,histo,70.0,male,back
+HAM_0004685,ISIC_0032061,bcc,histo,75.0,male,scalp
+HAM_0007588,ISIC_0031526,bcc,histo,55.0,female,back
+HAM_0002397,ISIC_0033248,bcc,histo,85.0,female,neck
+HAM_0005026,ISIC_0028728,bcc,histo,40.0,female,abdomen
+HAM_0007248,ISIC_0032850,bcc,histo,70.0,male,lower extremity
+HAM_0006572,ISIC_0026091,bcc,histo,75.0,male,back
+HAM_0000823,ISIC_0032894,bcc,histo,75.0,female,face
+HAM_0000065,ISIC_0025691,bcc,histo,50.0,female,abdomen
+HAM_0006834,ISIC_0027526,bcc,histo,85.0,male,face
+HAM_0001666,ISIC_0026668,bcc,histo,70.0,female,upper extremity
+HAM_0004084,ISIC_0025285,bcc,histo,75.0,female,upper extremity
+HAM_0002666,ISIC_0025322,bcc,histo,65.0,male,upper extremity
+HAM_0001693,ISIC_0026995,bcc,histo,80.0,male,lower extremity
+HAM_0005776,ISIC_0029755,bcc,histo,80.0,male,back
+HAM_0006631,ISIC_0031651,bcc,histo,85.0,female,face
+HAM_0002689,ISIC_0026687,bcc,histo,60.0,male,lower extremity
+HAM_0001526,ISIC_0027795,akiec,histo,70.0,male,ear
+HAM_0000718,ISIC_0025130,akiec,histo,80.0,female,face
+HAM_0004780,ISIC_0029315,akiec,histo,75.0,male,lower extremity
+HAM_0000954,ISIC_0029567,akiec,histo,70.0,male,lower extremity
+HAM_0002615,ISIC_0033413,akiec,histo,70.0,male,scalp
+HAM_0003501,ISIC_0029582,akiec,histo,75.0,male,lower extremity
+HAM_0005668,ISIC_0028370,akiec,histo,60.0,male,face
+HAM_0006879,ISIC_0029573,akiec,histo,70.0,male,lower extremity
+HAM_0000193,ISIC_0030877,akiec,histo,60.0,female,face
+HAM_0000549,ISIC_0026152,akiec,histo,70.0,male,upper extremity
+HAM_0007349,ISIC_0026178,akiec,histo,60.0,male,back
+HAM_0006180,ISIC_0028990,akiec,histo,70.0,male,upper extremity
+HAM_0000552,ISIC_0028872,akiec,histo,55.0,male,lower extremity
+HAM_0007308,ISIC_0026848,akiec,histo,55.0,male,face
+HAM_0002954,ISIC_0024329,akiec,histo,75.0,female,lower extremity
+HAM_0001173,ISIC_0030827,akiec,histo,40.0,female,face
+HAM_0007623,ISIC_0025264,akiec,histo,75.0,male,back
+HAM_0007008,ISIC_0031292,akiec,histo,60.0,male,hand
+HAM_0003401,ISIC_0029002,akiec,histo,55.0,male,face
+HAM_0001967,ISIC_0025471,akiec,histo,85.0,male,chest
+HAM_0003141,ISIC_0031918,akiec,histo,65.0,male,neck
+HAM_0001416,ISIC_0025427,akiec,histo,85.0,male,upper extremity
+HAM_0004472,ISIC_0025368,akiec,histo,40.0,female,face
+HAM_0004462,ISIC_0027334,akiec,histo,45.0,male,trunk
+HAM_0000688,ISIC_0032238,akiec,histo,75.0,male,lower extremity
+HAM_0006217,ISIC_0031043,akiec,histo,85.0,male,face
+HAM_0004568,ISIC_0027529,akiec,histo,50.0,male,upper extremity
+HAM_0004439,ISIC_0030986,akiec,histo,55.0,female,face
+HAM_0006902,ISIC_0031506,akiec,histo,70.0,male,hand
+HAM_0003586,ISIC_0027678,akiec,histo,60.0,male,back
+HAM_0004384,ISIC_0032422,akiec,histo,70.0,male,face
+HAM_0003380,ISIC_0027343,akiec,histo,75.0,female,lower extremity
+HAM_0002261,ISIC_0025808,akiec,histo,50.0,male,back
+HAM_0002461,ISIC_0025953,akiec,histo,65.0,male,face
+HAM_0005931,ISIC_0031191,akiec,histo,60.0,male,lower extremity
+HAM_0002867,ISIC_0033536,akiec,histo,40.0,male,abdomen
+HAM_0001176,ISIC_0028644,akiec,histo,65.0,female,abdomen
+HAM_0006301,ISIC_0024771,akiec,histo,75.0,male,neck
+HAM_0006222,ISIC_0025069,akiec,histo,75.0,male,upper extremity
+HAM_0004282,ISIC_0033358,akiec,histo,65.0,female,face
+HAM_0000545,ISIC_0029460,akiec,histo,70.0,male,face
+HAM_0001004,ISIC_0025790,akiec,histo,75.0,female,lower extremity
+HAM_0004609,ISIC_0030785,akiec,histo,75.0,male,back
+HAM_0007047,ISIC_0025957,akiec,histo,60.0,female,lower extremity
+HAM_0006213,ISIC_0025182,akiec,histo,60.0,female,hand
+HAM_0004398,ISIC_0025358,akiec,histo,60.0,female,face
+HAM_0002644,ISIC_0029417,akiec,histo,80.0,female,neck
+HAM_0003123,ISIC_0028816,akiec,histo,60.0,male,face
+HAM_0006604,ISIC_0030821,akiec,histo,75.0,male,neck
+HAM_0003123,ISIC_0028232,akiec,histo,60.0,male,face
+HAM_0006203,ISIC_0026456,vasc,histo,60.0,male,upper extremity
+HAM_0000940,ISIC_0033969,vasc,histo,35.0,female,lower extremity
+HAM_0007097,ISIC_0033230,vasc,histo,60.0,male,trunk
+HAM_0000845,ISIC_0025244,vasc,consensus,45.0,female,trunk
+HAM_0005215,ISIC_0028406,vasc,consensus,80.0,male,abdomen
+HAM_0006156,ISIC_0027903,vasc,histo,45.0,female,lower extremity
+HAM_0006946,ISIC_0032919,vasc,histo,55.0,female,back
+HAM_0006138,ISIC_0026713,vasc,consensus,35.0,female,hand
+HAM_0002177,ISIC_0025612,vasc,consensus,45.0,female,neck
+HAM_0001372,ISIC_0031103,vasc,consensus,35.0,female,trunk
+HAM_0004542,ISIC_0024402,vasc,consensus,0.0,female,back
+HAM_0005885,ISIC_0031215,vasc,consensus,75.0,male,trunk
+HAM_0002610,ISIC_0026876,vasc,consensus,0.0,female,abdomen
+HAM_0004097,ISIC_0025677,vasc,consensus,50.0,female,abdomen
+HAM_0002639,ISIC_0025249,vasc,consensus,30.0,female,lower extremity
+HAM_0005270,ISIC_0032270,vasc,histo,70.0,female,lower extremity
+HAM_0005560,ISIC_0027269,vasc,consensus,60.0,female,trunk
+HAM_0002538,ISIC_0030770,vasc,histo,65.0,female,abdomen
+HAM_0000460,ISIC_0025197,vasc,consensus,50.0,female,abdomen
+HAM_0005376,ISIC_0025606,vasc,consensus,55.0,male,scalp
+HAM_0004776,ISIC_0032545,vasc,histo,45.0,female,chest
+HAM_0001780,ISIC_0024370,vasc,consensus,55.0,male,trunk
+HAM_0004409,ISIC_0027888,vasc,consensus,40.0,male,trunk
+HAM_0001920,ISIC_0031901,vasc,histo,55.0,male,back
+HAM_0007372,ISIC_0030283,vasc,consensus,55.0,male,trunk
+HAM_0002538,ISIC_0032240,vasc,histo,65.0,female,abdomen
+HAM_0000502,ISIC_0029608,vasc,consensus,70.0,male,back
+HAM_0004455,ISIC_0030882,vasc,histo,20.0,male,trunk
+HAM_0000109,ISIC_0031065,vasc,consensus,35.0,female,trunk
+HAM_0001249,ISIC_0033817,vasc,consensus,85.0,male,back
+HAM_0003862,ISIC_0033458,vasc,histo,45.0,male,upper extremity
+HAM_0005713,ISIC_0028714,vasc,histo,60.0,female,neck
+HAM_0005989,ISIC_0033123,vasc,histo,25.0,female,back
+HAM_0001537,ISIC_0026467,vasc,consensus,55.0,male,lower extremity
+HAM_0004791,ISIC_0032538,vasc,histo,80.0,female,lower extremity
+HAM_0004877,ISIC_0028188,vasc,histo,85.0,female,upper extremity
+HAM_0004776,ISIC_0033158,vasc,histo,45.0,female,chest
+HAM_0006193,ISIC_0029877,vasc,consensus,80.0,male,lower extremity
+HAM_0005011,ISIC_0026393,vasc,consensus,80.0,male,trunk
+HAM_0003862,ISIC_0033031,vasc,histo,45.0,male,upper extremity
+HAM_0001852,ISIC_0033749,vasc,histo,80.0,male,lower extremity
+HAM_0007113,ISIC_0027522,vasc,consensus,55.0,male,abdomen
+HAM_0002914,ISIC_0024904,vasc,histo,75.0,male,upper extremity
+HAM_0006617,ISIC_0024669,vasc,histo,25.0,female,abdomen
+HAM_0005158,ISIC_0031950,vasc,histo,40.0,male,lower extremity
+HAM_0000415,ISIC_0025680,vasc,consensus,55.0,female,trunk
+HAM_0001852,ISIC_0034196,vasc,histo,80.0,male,lower extremity
+HAM_0004820,ISIC_0030722,vasc,consensus,45.0,female,abdomen
+HAM_0006946,ISIC_0032614,vasc,histo,55.0,female,back
+HAM_0001038,ISIC_0024706,vasc,consensus,50.0,male,trunk
+HAM_0006371,ISIC_0034135,df,consensus,35.0,female,lower extremity
+HAM_0004103,ISIC_0028880,df,histo,55.0,male,lower extremity
+HAM_0003081,ISIC_0033847,df,consensus,45.0,male,abdomen
+HAM_0007129,ISIC_0027216,df,consensus,60.0,female,lower extremity
+HAM_0005112,ISIC_0024386,df,consensus,40.0,female,lower extremity
+HAM_0004756,ISIC_0029248,df,histo,55.0,male,lower extremity
+HAM_0002045,ISIC_0029973,df,consensus,60.0,male,lower extremity
+HAM_0003597,ISIC_0033422,df,consensus,45.0,male,lower extremity
+HAM_0002463,ISIC_0029052,df,consensus,75.0,female,lower extremity
+HAM_0001785,ISIC_0032941,df,histo,50.0,male,upper extremity
+HAM_0004317,ISIC_0025504,df,histo,50.0,female,lower extremity
+HAM_0004330,ISIC_0030555,df,histo,70.0,male,lower extremity
+HAM_0004371,ISIC_0027626,df,histo,45.0,female,upper extremity
+HAM_0004756,ISIC_0030442,df,histo,55.0,male,lower extremity
+HAM_0006188,ISIC_0027188,df,consensus,40.0,male,lower extremity
+HAM_0005276,ISIC_0027008,df,histo,75.0,male,back
+HAM_0004036,ISIC_0027727,df,histo,55.0,male,upper extremity
+HAM_0000757,ISIC_0025314,df,consensus,35.0,female,lower extremity
+HAM_0004496,ISIC_0028651,df,consensus,55.0,female,lower extremity
+HAM_0005492,ISIC_0032138,df,histo,35.0,female,lower extremity
+HAM_0007410,ISIC_0031457,df,histo,65.0,male,foot
+HAM_0007396,ISIC_0033891,df,consensus,35.0,female,lower extremity
+HAM_0007569,ISIC_0025373,df,consensus,35.0,female,lower extremity
+HAM_0005529,ISIC_0025980,df,consensus,55.0,female,lower extremity
+HAM_0001164,ISIC_0027118,df,histo,50.0,female,upper extremity
+HAM_0007418,ISIC_0031372,df,consensus,50.0,male,lower extremity
+HAM_0002706,ISIC_0029783,df,histo,40.0,male,lower extremity
+HAM_0005861,ISIC_0031344,df,histo,65.0,female,lower extremity
+HAM_0002909,ISIC_0033790,df,histo,50.0,male,lower extremity
+HAM_0007227,ISIC_0029891,df,histo,75.0,male,lower extremity
+HAM_0005330,ISIC_0024553,df,consensus,50.0,female,upper extremity
+HAM_0002909,ISIC_0032642,df,histo,50.0,male,lower extremity
+HAM_0000349,ISIC_0033695,df,consensus,45.0,female,lower extremity
+HAM_0005983,ISIC_0025594,df,consensus,65.0,female,lower extremity
+HAM_0000827,ISIC_0031443,df,consensus,60.0,male,upper extremity
+HAM_0003023,ISIC_0031257,df,consensus,55.0,female,upper extremity
+HAM_0004960,ISIC_0029967,df,histo,65.0,female,lower extremity
+HAM_0002909,ISIC_0033675,df,histo,50.0,male,lower extremity
+HAM_0007410,ISIC_0029962,df,histo,65.0,male,foot
+HAM_0002848,ISIC_0027598,df,consensus,60.0,female,lower extremity
+HAM_0003110,ISIC_0026789,df,histo,65.0,male,lower extremity
+HAM_0000827,ISIC_0025223,df,consensus,60.0,male,upper extremity
+HAM_0005584,ISIC_0032613,df,consensus,25.0,female,lower extremity
+HAM_0007225,ISIC_0032247,df,histo,75.0,male,lower extremity
+HAM_0004317,ISIC_0029039,df,histo,50.0,female,lower extremity
+HAM_0005518,ISIC_0032410,df,histo,30.0,male,lower extremity
+HAM_0002450,ISIC_0024396,df,consensus,65.0,female,lower extremity
+HAM_0003597,ISIC_0027488,df,consensus,45.0,male,lower extremity
+HAM_0006707,ISIC_0030870,df,consensus,45.0,female,lower extremity
+HAM_0003290,ISIC_0031358,df,histo,80.0,male,upper extremity
