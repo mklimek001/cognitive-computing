@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Doctor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        #container {
+            text-align: center;
+        }
+        #image-preview {
+            max-width: 300px;
+            margin-bottom: 20px;
+        }
+
+        #prediction {
+            margin-left: 15%;
+            width: 70%;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Diagnozowanie chorób skóry na podstawie zdjęć</h1>
+        <input type="file" id="fileInput" accept="image/*">
+        <br>
+        <img id="image-preview" src="#" alt="Image Preview">
+        <br>
+        <button onclick="predict()">Zobacz diagnozę</button>
+        <div id="prediction"></div>
+    </div>
+
+    <script>
+        function previewImage(event) {
+            var reader = new FileReader();
+            reader.onload = function() {
+                var output = document.getElementById('image-preview');
+                output.src = reader.result;
+            }
+            reader.readAsDataURL(event.target.files[0]);
+        }
+
+        function predict() {
+            var fileInput = document.getElementById('fileInput');
+            var file = fileInput.files[0];
+            var formData = new FormData();
+            formData.append('file', file);
+
+            fetch('http://localhost:8000/predict/', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                var predictionDiv = document.getElementById('prediction');
+                predictionDiv.innerHTML = `<h2> ${data.name}</h2> 
+                <strong> Leczenie: </strong> ${data.treatment} <br> <br> 
+                <strong> Rokowania: </strong> ${data.prognosis} <br> <br> 
+                <strong> Zagrożenia: </strong> ${data.risks} <br> <br> `;
+            })
+            .catch(error => console.error('Error:', error));
+        }
+
+        document.getElementById('fileInput').addEventListener('change', previewImage);
+    </script>
+</body>
+</html>
